@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "522535295443",
+    "project_id": "my-afte-app",
+    "storage_bucket": "my-afte-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522535295443:android:fb7ba16caa5e76a263f726",
+        "android_client_info": {
+          "package_name": "com.grace.myaftefirebaseproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522535295443-1dajj9pkcvges0jt68poddefqv5ebsmh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEwpEe6XAEwrejR2EBr8NHlVcNjtK6nhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522535295443-1dajj9pkcvges0jt68poddefqv5ebsmh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
